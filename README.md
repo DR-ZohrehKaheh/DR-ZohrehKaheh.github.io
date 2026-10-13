@@ -24,7 +24,7 @@ Content sources are linked in `sources.html`. A 2024 journal issue citation is u
 
 ## Search discovery
 
-The site includes a descriptive title and description, canonical URL, sitemap, robots file, crawlable HTML, and ProfilePage/Person structured data. Link this website from public professional profiles. After deployment, the owner can verify a URL-prefix property in Google Search Console and submit `sitemap.xml`. No Search Console verification token is included until provided by the verified owner. These measures do not guarantee indexing or rankings.
+The site includes a descriptive title and description, canonical URL, sitemap, robots file, crawlable HTML, and ProfilePage/Person structured data. Link this website from public professional profiles. The URL-prefix property `https://dr-zohrehkaheh.github.io/` was verified in Google Search Console on 13 October 2026 using `google0e35955c171c9184.html`. Keep this verification file in place to retain ownership verification. The sitemap was submitted and homepage indexing was requested. At setup, the sitemap report still showed `Couldn't fetch`, while Google's live URL test successfully fetched the sitemap with crawling allowed; the report needs a later check. These measures do not guarantee indexing or rankings.
 
 Official guidance:
 
