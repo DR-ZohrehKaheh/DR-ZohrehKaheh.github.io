@@ -6,7 +6,7 @@ Static HTML and CSS, hosted with GitHub Pages. No package installation, build se
 
 ## Content
 
-- `index.html`: profile, research themes, five software projects, selected publications, background, teaching and contact.
+- `index.html`: profile, research themes, five software projects, seven selected publications, background, teaching and contact.
 - `styles.css`: responsive layout, keyboard focus, reduced-motion and print styles.
 - `sources.html`: content sources and attribution notes.
 - `sitemap.xml`, `robots.txt`: crawler discovery.
@@ -20,7 +20,7 @@ In **Settings → Pages**, choose **Deploy from a branch**, branch **main**, fol
 
 Edit content in `index.html`. Preserve collaborator credits, citation author order, DOI types and project limitations. Avoid asserting a current institutional appointment. Update the review date in `sources.html`, `dateModified` in the structured data, and `lastmod` in `sitemap.xml` after substantive changes.
 
-Content sources are linked in `sources.html`. A 2024 journal issue citation is used for the distributed-procurement article, with its separate 2022 archive date noted explicitly.
+Content sources are linked in `sources.html`. The distributed-procurement article shows its 2022 online publication date alongside its final 2024 journal issue citation. The selected publications include four journal articles, one conference paper and two book chapters, with explicit type labels and DOI links. Discontinued Brunel staff-profile links have been removed; historical teaching and funding provenance is explained in `sources.html`.
 
 ## Search discovery
 
