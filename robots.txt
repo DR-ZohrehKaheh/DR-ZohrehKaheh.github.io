@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dr-zohrehkaheh.github.io/sitemap.xml
