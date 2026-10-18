@@ -49,3 +49,8 @@ h1, h2, h3, h4, .contact-links a { overflow-wrap: anywhere; }
   .header nav a { display: none; }
   .text-link, .project-links a, .doi, .footer a { min-height: 0; padding: 0; }
 }
+
+/* Space before the supervised student-project group. */
+.project + .collaboration-intro {
+  margin-top: 24px;
+}
